@@ -1,0 +1,11 @@
+# Impostazioni locali di CLion
+.idea/
+
+# Cartelle di compilazione di CMake
+cmake-build-*/
+build/
+
+# Eseguibili e file oggettos
+*.exe
+*.out
+*.o
